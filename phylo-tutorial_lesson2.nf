@@ -18,20 +18,4 @@ process clustalw_align {
         """
 }
 
-process raxml_tree {
-
-    publishDir "results/clustalw"
-
-    input:
-        file clustalw_result from alignedDatasets
-
-    output:
-         file .nwk into raxmlTrees
-
-    script:
-        """
-        ra
-        """
-}
-
 
