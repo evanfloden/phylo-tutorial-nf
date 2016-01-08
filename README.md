@@ -8,7 +8,7 @@ The tutorial has been split into the following lessons, each approximatly 4 min 
 
 [2. Your First Nextflow Script](https://github.com/skptic/phylo-tutorial-nf/blob/master/README.md#nextflow-video-tutorial-2-your-first-nextflow-script)
 
-[3. Processes and Channels]()
+[3. Processes and Channels](https://github.com/skptic/phylo-tutorial-nf/blob/master/README.md#nextflow-video-tutorial-3-processes-and-channels)
 
 ## Nextflow Video Tutorial I: Installation & Setup
 
