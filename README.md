@@ -34,6 +34,7 @@ ls -l
 *Video*
 
 *Commands*
+
 `vim phylo-tutorial.nf`
 
 ```
