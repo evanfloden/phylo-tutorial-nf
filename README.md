@@ -1,6 +1,6 @@
 # An Introductory Nextflow Tutorial
 
-This is the first in a series of videos where we will introduce the basics of the Nextflow platform and provide an example pipeline with which you can hopefully follow along. In our example we will create a pipeline for a basic phylogenetic analysis, however the concepts explored can be applied to any pipeline, be it RNA-Seq, genome annotation, variant calling or even applications outside of bioinformatics.
+This is a series of videos where we introduce the basics of the Nextflow platform and provide an example pipeline with which you can hopefully build along with us. In our example we will create a pipeline for a basic phylogenetic analysis, however the concepts explored can be applied equally to any pipeline, be it RNA-Seq, genome annotation, variant calling or even applications outside of bioinformatics.
 
 The tutorial has been split into the following lessons, each approximatly 4 min in duration.
 
