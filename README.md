@@ -4,6 +4,8 @@ This is the first in a series of videos where we will introduce the basics of th
 
 The tutorial has been split into the following lessons, each approximatly 4 min in duration.
 
+https://github.com/skptic/phylo-tutorial-nf/blob/master/README.md#nextflow-video-tutorial-i-installation--setup
+
 
 
 ## Nextflow Video Tutorial I: Installation & Setup
