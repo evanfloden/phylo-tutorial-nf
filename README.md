@@ -4,9 +4,9 @@ This is the first in a series of videos where we will introduce the basics of th
 
 The tutorial has been split into the following lessons, each approximatly 4 min in duration.
 
-https://github.com/skptic/phylo-tutorial-nf/blob/master/README.md#nextflow-video-tutorial-i-installation--setup
-
-
+[1. Installation & Setup](https://github.com/skptic/phylo-tutorial-nf/blob/master/README.md#nextflow-video-tutorial-i-installation--setup)
+[2. Your First Nextflow Script]()
+[3. Processes and Channels]()
 
 ## Nextflow Video Tutorial I: Installation & Setup
 
@@ -73,7 +73,7 @@ process clustalw_align {
 `cat mammals.aln```
 
 
-## Nextflow Video Tutorial 3: Introduction to Processes and Channels
+## Nextflow Video Tutorial 3: Processes and Channels
 
 *Video*
 
