@@ -1,3 +1,5 @@
+#!/usr/bin/env nextflow
+
 params.input  =  "data/*.fa"
 
 datasets      =  Channel.fromPath( params.input )
